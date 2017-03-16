@@ -1,3 +1,8 @@
+# Para correr las pruebas
+
+`sudo docker-compose run web bundle exec rspec gilded_rose_spec.rb`
+
+
 # The Gilded Rose Code Kata
 
 This is a Ruby version of the Gilded Rose Kata, found
